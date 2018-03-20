@@ -1,0 +1,7 @@
+E:\C#\Uzduotys lapas\20180120 vidutinis per metus perskaito Uzd_nr_5\20180120 vidutinis per metus perskaito Uzd_nr_5\bin\Debug\20180120 vidutinis per metus perskaito Uzd_nr_5.exe.config
+E:\C#\Uzduotys lapas\20180120 vidutinis per metus perskaito Uzd_nr_5\20180120 vidutinis per metus perskaito Uzd_nr_5\bin\Debug\20180120 vidutinis per metus perskaito Uzd_nr_5.exe
+E:\C#\Uzduotys lapas\20180120 vidutinis per metus perskaito Uzd_nr_5\20180120 vidutinis per metus perskaito Uzd_nr_5\bin\Debug\20180120 vidutinis per metus perskaito Uzd_nr_5.pdb
+E:\C#\Uzduotys lapas\20180120 vidutinis per metus perskaito Uzd_nr_5\20180120 vidutinis per metus perskaito Uzd_nr_5\obj\Debug\20180120 vidutinis per metus perskaito Uzd_nr_5.csprojResolveAssemblyReference.cache
+E:\C#\Uzduotys lapas\20180120 vidutinis per metus perskaito Uzd_nr_5\20180120 vidutinis per metus perskaito Uzd_nr_5\obj\Debug\20180120 vidutinis per metus perskaito Uzd_nr_5.csproj.CoreCompileInputs.cache
+E:\C#\Uzduotys lapas\20180120 vidutinis per metus perskaito Uzd_nr_5\20180120 vidutinis per metus perskaito Uzd_nr_5\obj\Debug\20180120 vidutinis per metus perskaito Uzd_nr_5.exe
+E:\C#\Uzduotys lapas\20180120 vidutinis per metus perskaito Uzd_nr_5\20180120 vidutinis per metus perskaito Uzd_nr_5\obj\Debug\20180120 vidutinis per metus perskaito Uzd_nr_5.pdb

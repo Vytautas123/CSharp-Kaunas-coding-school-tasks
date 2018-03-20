@@ -1,0 +1,7 @@
+E:\C#\Uzduotys lapas\20180122 svarai silingai pensai Uzd_nr_15\20180122 svarai silingai pensai Uzd_nr_15\bin\Debug\20180122 svarai silingai pensai Uzd_nr_15.exe.config
+E:\C#\Uzduotys lapas\20180122 svarai silingai pensai Uzd_nr_15\20180122 svarai silingai pensai Uzd_nr_15\bin\Debug\20180122 svarai silingai pensai Uzd_nr_15.exe
+E:\C#\Uzduotys lapas\20180122 svarai silingai pensai Uzd_nr_15\20180122 svarai silingai pensai Uzd_nr_15\bin\Debug\20180122 svarai silingai pensai Uzd_nr_15.pdb
+E:\C#\Uzduotys lapas\20180122 svarai silingai pensai Uzd_nr_15\20180122 svarai silingai pensai Uzd_nr_15\obj\Debug\20180122 svarai silingai pensai Uzd_nr_15.csprojResolveAssemblyReference.cache
+E:\C#\Uzduotys lapas\20180122 svarai silingai pensai Uzd_nr_15\20180122 svarai silingai pensai Uzd_nr_15\obj\Debug\20180122 svarai silingai pensai Uzd_nr_15.csproj.CoreCompileInputs.cache
+E:\C#\Uzduotys lapas\20180122 svarai silingai pensai Uzd_nr_15\20180122 svarai silingai pensai Uzd_nr_15\obj\Debug\20180122 svarai silingai pensai Uzd_nr_15.exe
+E:\C#\Uzduotys lapas\20180122 svarai silingai pensai Uzd_nr_15\20180122 svarai silingai pensai Uzd_nr_15\obj\Debug\20180122 svarai silingai pensai Uzd_nr_15.pdb

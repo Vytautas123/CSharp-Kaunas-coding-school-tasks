@@ -1,0 +1,7 @@
+E:\C#\Uzduotys lapas\20180125 cigareciu kaina Uzd_Nr_34\20180125 cigareciu kaina Uzd_Nr_34\bin\Debug\20180125 cigareciu kaina Uzd_Nr_34.exe.config
+E:\C#\Uzduotys lapas\20180125 cigareciu kaina Uzd_Nr_34\20180125 cigareciu kaina Uzd_Nr_34\bin\Debug\20180125 cigareciu kaina Uzd_Nr_34.exe
+E:\C#\Uzduotys lapas\20180125 cigareciu kaina Uzd_Nr_34\20180125 cigareciu kaina Uzd_Nr_34\bin\Debug\20180125 cigareciu kaina Uzd_Nr_34.pdb
+E:\C#\Uzduotys lapas\20180125 cigareciu kaina Uzd_Nr_34\20180125 cigareciu kaina Uzd_Nr_34\obj\Debug\20180125 cigareciu kaina Uzd_Nr_34.csprojResolveAssemblyReference.cache
+E:\C#\Uzduotys lapas\20180125 cigareciu kaina Uzd_Nr_34\20180125 cigareciu kaina Uzd_Nr_34\obj\Debug\20180125 cigareciu kaina Uzd_Nr_34.csproj.CoreCompileInputs.cache
+E:\C#\Uzduotys lapas\20180125 cigareciu kaina Uzd_Nr_34\20180125 cigareciu kaina Uzd_Nr_34\obj\Debug\20180125 cigareciu kaina Uzd_Nr_34.exe
+E:\C#\Uzduotys lapas\20180125 cigareciu kaina Uzd_Nr_34\20180125 cigareciu kaina Uzd_Nr_34\obj\Debug\20180125 cigareciu kaina Uzd_Nr_34.pdb

@@ -1,0 +1,7 @@
+E:\C#\Uzduotys lapas\20180123 matematikas ir milionier Uzd_nr_35\20180123 matematikas ir milionier Uzd_nr_35\bin\Debug\20180123 matematikas ir milionier Uzd_nr_35.exe.config
+E:\C#\Uzduotys lapas\20180123 matematikas ir milionier Uzd_nr_35\20180123 matematikas ir milionier Uzd_nr_35\bin\Debug\20180123 matematikas ir milionier Uzd_nr_35.exe
+E:\C#\Uzduotys lapas\20180123 matematikas ir milionier Uzd_nr_35\20180123 matematikas ir milionier Uzd_nr_35\bin\Debug\20180123 matematikas ir milionier Uzd_nr_35.pdb
+E:\C#\Uzduotys lapas\20180123 matematikas ir milionier Uzd_nr_35\20180123 matematikas ir milionier Uzd_nr_35\obj\Debug\20180123 matematikas ir milionier Uzd_nr_35.csprojResolveAssemblyReference.cache
+E:\C#\Uzduotys lapas\20180123 matematikas ir milionier Uzd_nr_35\20180123 matematikas ir milionier Uzd_nr_35\obj\Debug\20180123 matematikas ir milionier Uzd_nr_35.csproj.CoreCompileInputs.cache
+E:\C#\Uzduotys lapas\20180123 matematikas ir milionier Uzd_nr_35\20180123 matematikas ir milionier Uzd_nr_35\obj\Debug\20180123 matematikas ir milionier Uzd_nr_35.exe
+E:\C#\Uzduotys lapas\20180123 matematikas ir milionier Uzd_nr_35\20180123 matematikas ir milionier Uzd_nr_35\obj\Debug\20180123 matematikas ir milionier Uzd_nr_35.pdb

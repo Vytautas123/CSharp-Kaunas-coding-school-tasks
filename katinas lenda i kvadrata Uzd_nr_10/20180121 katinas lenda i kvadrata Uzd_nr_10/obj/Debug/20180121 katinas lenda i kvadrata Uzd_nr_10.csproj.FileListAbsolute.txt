@@ -1,0 +1,7 @@
+E:\C#\Uzduotys lapas\20180121 katinas lenda i kvadrata Uzd_nr_10\20180121 katinas lenda i kvadrata Uzd_nr_10\bin\Debug\20180121 katinas lenda i kvadrata Uzd_nr_10.exe.config
+E:\C#\Uzduotys lapas\20180121 katinas lenda i kvadrata Uzd_nr_10\20180121 katinas lenda i kvadrata Uzd_nr_10\bin\Debug\20180121 katinas lenda i kvadrata Uzd_nr_10.exe
+E:\C#\Uzduotys lapas\20180121 katinas lenda i kvadrata Uzd_nr_10\20180121 katinas lenda i kvadrata Uzd_nr_10\bin\Debug\20180121 katinas lenda i kvadrata Uzd_nr_10.pdb
+E:\C#\Uzduotys lapas\20180121 katinas lenda i kvadrata Uzd_nr_10\20180121 katinas lenda i kvadrata Uzd_nr_10\obj\Debug\20180121 katinas lenda i kvadrata Uzd_nr_10.csprojResolveAssemblyReference.cache
+E:\C#\Uzduotys lapas\20180121 katinas lenda i kvadrata Uzd_nr_10\20180121 katinas lenda i kvadrata Uzd_nr_10\obj\Debug\20180121 katinas lenda i kvadrata Uzd_nr_10.csproj.CoreCompileInputs.cache
+E:\C#\Uzduotys lapas\20180121 katinas lenda i kvadrata Uzd_nr_10\20180121 katinas lenda i kvadrata Uzd_nr_10\obj\Debug\20180121 katinas lenda i kvadrata Uzd_nr_10.exe
+E:\C#\Uzduotys lapas\20180121 katinas lenda i kvadrata Uzd_nr_10\20180121 katinas lenda i kvadrata Uzd_nr_10\obj\Debug\20180121 katinas lenda i kvadrata Uzd_nr_10.pdb

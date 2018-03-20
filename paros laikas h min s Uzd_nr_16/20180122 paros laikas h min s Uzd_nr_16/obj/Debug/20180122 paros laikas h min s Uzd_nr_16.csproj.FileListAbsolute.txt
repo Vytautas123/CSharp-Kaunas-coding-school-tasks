@@ -1,0 +1,7 @@
+E:\C#\Uzduotys lapas\20180122 paros laikas h min s Uzd_nr_16\20180122 paros laikas h min s Uzd_nr_16\bin\Debug\20180122 paros laikas h min s Uzd_nr_16.exe.config
+E:\C#\Uzduotys lapas\20180122 paros laikas h min s Uzd_nr_16\20180122 paros laikas h min s Uzd_nr_16\bin\Debug\20180122 paros laikas h min s Uzd_nr_16.exe
+E:\C#\Uzduotys lapas\20180122 paros laikas h min s Uzd_nr_16\20180122 paros laikas h min s Uzd_nr_16\bin\Debug\20180122 paros laikas h min s Uzd_nr_16.pdb
+E:\C#\Uzduotys lapas\20180122 paros laikas h min s Uzd_nr_16\20180122 paros laikas h min s Uzd_nr_16\obj\Debug\20180122 paros laikas h min s Uzd_nr_16.csprojResolveAssemblyReference.cache
+E:\C#\Uzduotys lapas\20180122 paros laikas h min s Uzd_nr_16\20180122 paros laikas h min s Uzd_nr_16\obj\Debug\20180122 paros laikas h min s Uzd_nr_16.csproj.CoreCompileInputs.cache
+E:\C#\Uzduotys lapas\20180122 paros laikas h min s Uzd_nr_16\20180122 paros laikas h min s Uzd_nr_16\obj\Debug\20180122 paros laikas h min s Uzd_nr_16.exe
+E:\C#\Uzduotys lapas\20180122 paros laikas h min s Uzd_nr_16\20180122 paros laikas h min s Uzd_nr_16\obj\Debug\20180122 paros laikas h min s Uzd_nr_16.pdb

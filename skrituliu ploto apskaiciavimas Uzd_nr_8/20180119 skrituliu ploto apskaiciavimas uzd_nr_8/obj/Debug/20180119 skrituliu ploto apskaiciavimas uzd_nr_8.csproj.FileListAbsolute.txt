@@ -1,0 +1,7 @@
+E:\C#\20180119 skrituliu ploto apskaiciavimas uzd_nr_8\20180119 skrituliu ploto apskaiciavimas uzd_nr_8\obj\Debug\20180119 skrituliu ploto apskaiciavimas uzd_nr_8.csproj.CoreCompileInputs.cache
+E:\C#\20180119 skrituliu ploto apskaiciavimas uzd_nr_8\20180119 skrituliu ploto apskaiciavimas uzd_nr_8\bin\Debug\20180119 skrituliu ploto apskaiciavimas uzd_nr_8.exe.config
+E:\C#\20180119 skrituliu ploto apskaiciavimas uzd_nr_8\20180119 skrituliu ploto apskaiciavimas uzd_nr_8\bin\Debug\20180119 skrituliu ploto apskaiciavimas uzd_nr_8.exe
+E:\C#\20180119 skrituliu ploto apskaiciavimas uzd_nr_8\20180119 skrituliu ploto apskaiciavimas uzd_nr_8\bin\Debug\20180119 skrituliu ploto apskaiciavimas uzd_nr_8.pdb
+E:\C#\20180119 skrituliu ploto apskaiciavimas uzd_nr_8\20180119 skrituliu ploto apskaiciavimas uzd_nr_8\obj\Debug\20180119 skrituliu ploto apskaiciavimas uzd_nr_8.exe
+E:\C#\20180119 skrituliu ploto apskaiciavimas uzd_nr_8\20180119 skrituliu ploto apskaiciavimas uzd_nr_8\obj\Debug\20180119 skrituliu ploto apskaiciavimas uzd_nr_8.pdb
+E:\C#\20180119 skrituliu ploto apskaiciavimas uzd_nr_8\20180119 skrituliu ploto apskaiciavimas uzd_nr_8\obj\Debug\20180119 skrituliu ploto apskaiciavimas uzd_nr_8.csprojResolveAssemblyReference.cache

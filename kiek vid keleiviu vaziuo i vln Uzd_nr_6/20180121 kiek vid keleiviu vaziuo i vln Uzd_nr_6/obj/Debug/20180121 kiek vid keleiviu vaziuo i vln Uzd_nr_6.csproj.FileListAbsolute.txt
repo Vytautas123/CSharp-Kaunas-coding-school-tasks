@@ -1,0 +1,7 @@
+E:\C#\Uzduotys lapas\20180121 kiek vid keleiviu vaziuo i vln Uzd_nr_6\20180121 kiek vid keleiviu vaziuo i vln Uzd_nr_6\bin\Debug\20180121 kiek vid keleiviu vaziuo i vln Uzd_nr_6.exe.config
+E:\C#\Uzduotys lapas\20180121 kiek vid keleiviu vaziuo i vln Uzd_nr_6\20180121 kiek vid keleiviu vaziuo i vln Uzd_nr_6\bin\Debug\20180121 kiek vid keleiviu vaziuo i vln Uzd_nr_6.exe
+E:\C#\Uzduotys lapas\20180121 kiek vid keleiviu vaziuo i vln Uzd_nr_6\20180121 kiek vid keleiviu vaziuo i vln Uzd_nr_6\bin\Debug\20180121 kiek vid keleiviu vaziuo i vln Uzd_nr_6.pdb
+E:\C#\Uzduotys lapas\20180121 kiek vid keleiviu vaziuo i vln Uzd_nr_6\20180121 kiek vid keleiviu vaziuo i vln Uzd_nr_6\obj\Debug\20180121 kiek vid keleiviu vaziuo i vln Uzd_nr_6.csprojResolveAssemblyReference.cache
+E:\C#\Uzduotys lapas\20180121 kiek vid keleiviu vaziuo i vln Uzd_nr_6\20180121 kiek vid keleiviu vaziuo i vln Uzd_nr_6\obj\Debug\20180121 kiek vid keleiviu vaziuo i vln Uzd_nr_6.csproj.CoreCompileInputs.cache
+E:\C#\Uzduotys lapas\20180121 kiek vid keleiviu vaziuo i vln Uzd_nr_6\20180121 kiek vid keleiviu vaziuo i vln Uzd_nr_6\obj\Debug\20180121 kiek vid keleiviu vaziuo i vln Uzd_nr_6.exe
+E:\C#\Uzduotys lapas\20180121 kiek vid keleiviu vaziuo i vln Uzd_nr_6\20180121 kiek vid keleiviu vaziuo i vln Uzd_nr_6\obj\Debug\20180121 kiek vid keleiviu vaziuo i vln Uzd_nr_6.pdb

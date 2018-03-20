@@ -1,0 +1,7 @@
+E:\C#\Uzduotys lapas\20180120 kambario matemenys pliteliu kaina Uzd_nr2\20180120 kambario matemenys pliteliu kaina Uzd_nr\bin\Debug\20180120 kambario matemenys pliteliu kaina Uzd_nr.exe.config
+E:\C#\Uzduotys lapas\20180120 kambario matemenys pliteliu kaina Uzd_nr2\20180120 kambario matemenys pliteliu kaina Uzd_nr\bin\Debug\20180120 kambario matemenys pliteliu kaina Uzd_nr.exe
+E:\C#\Uzduotys lapas\20180120 kambario matemenys pliteliu kaina Uzd_nr2\20180120 kambario matemenys pliteliu kaina Uzd_nr\bin\Debug\20180120 kambario matemenys pliteliu kaina Uzd_nr.pdb
+E:\C#\Uzduotys lapas\20180120 kambario matemenys pliteliu kaina Uzd_nr2\20180120 kambario matemenys pliteliu kaina Uzd_nr\obj\Debug\20180120 kambario matemenys pliteliu kaina Uzd_nr.csproj.CoreCompileInputs.cache
+E:\C#\Uzduotys lapas\20180120 kambario matemenys pliteliu kaina Uzd_nr2\20180120 kambario matemenys pliteliu kaina Uzd_nr\obj\Debug\20180120 kambario matemenys pliteliu kaina Uzd_nr.exe
+E:\C#\Uzduotys lapas\20180120 kambario matemenys pliteliu kaina Uzd_nr2\20180120 kambario matemenys pliteliu kaina Uzd_nr\obj\Debug\20180120 kambario matemenys pliteliu kaina Uzd_nr.pdb
+E:\C#\Uzduotys lapas\20180120 kambario matemenys pliteliu kaina Uzd_nr2\20180120 kambario matemenys pliteliu kaina Uzd_nr\obj\Debug\20180120 kambario matemenys pliteliu kaina Uzd_nr.csprojResolveAssemblyReference.cache

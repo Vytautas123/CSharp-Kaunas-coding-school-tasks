@@ -1,0 +1,7 @@
+E:\C#\Uzduotys lapas\20180121 staciakam plotas perimetras xx yy Uzd_nr_7\20180121 staciakam plotas perimetras xx yy Uzd_nr_7\bin\Debug\20180121 staciakam plotas perimetras xx yy Uzd_nr_7.exe.config
+E:\C#\Uzduotys lapas\20180121 staciakam plotas perimetras xx yy Uzd_nr_7\20180121 staciakam plotas perimetras xx yy Uzd_nr_7\bin\Debug\20180121 staciakam plotas perimetras xx yy Uzd_nr_7.exe
+E:\C#\Uzduotys lapas\20180121 staciakam plotas perimetras xx yy Uzd_nr_7\20180121 staciakam plotas perimetras xx yy Uzd_nr_7\bin\Debug\20180121 staciakam plotas perimetras xx yy Uzd_nr_7.pdb
+E:\C#\Uzduotys lapas\20180121 staciakam plotas perimetras xx yy Uzd_nr_7\20180121 staciakam plotas perimetras xx yy Uzd_nr_7\obj\Debug\20180121 staciakam plotas perimetras xx yy Uzd_nr_7.csprojResolveAssemblyReference.cache
+E:\C#\Uzduotys lapas\20180121 staciakam plotas perimetras xx yy Uzd_nr_7\20180121 staciakam plotas perimetras xx yy Uzd_nr_7\obj\Debug\20180121 staciakam plotas perimetras xx yy Uzd_nr_7.csproj.CoreCompileInputs.cache
+E:\C#\Uzduotys lapas\20180121 staciakam plotas perimetras xx yy Uzd_nr_7\20180121 staciakam plotas perimetras xx yy Uzd_nr_7\obj\Debug\20180121 staciakam plotas perimetras xx yy Uzd_nr_7.exe
+E:\C#\Uzduotys lapas\20180121 staciakam plotas perimetras xx yy Uzd_nr_7\20180121 staciakam plotas perimetras xx yy Uzd_nr_7\obj\Debug\20180121 staciakam plotas perimetras xx yy Uzd_nr_7.pdb

@@ -1,0 +1,7 @@
+E:\C#\Uzduotys lapas\20180121 coline sistema dvi lazdeles Uzd_nr_13\20180121 coline sistema dvi lazdeles Uzd_nr_13\bin\Debug\20180121 coline sistema dvi lazdeles Uzd_nr_13.exe.config
+E:\C#\Uzduotys lapas\20180121 coline sistema dvi lazdeles Uzd_nr_13\20180121 coline sistema dvi lazdeles Uzd_nr_13\bin\Debug\20180121 coline sistema dvi lazdeles Uzd_nr_13.exe
+E:\C#\Uzduotys lapas\20180121 coline sistema dvi lazdeles Uzd_nr_13\20180121 coline sistema dvi lazdeles Uzd_nr_13\bin\Debug\20180121 coline sistema dvi lazdeles Uzd_nr_13.pdb
+E:\C#\Uzduotys lapas\20180121 coline sistema dvi lazdeles Uzd_nr_13\20180121 coline sistema dvi lazdeles Uzd_nr_13\obj\Debug\20180121 coline sistema dvi lazdeles Uzd_nr_13.csprojResolveAssemblyReference.cache
+E:\C#\Uzduotys lapas\20180121 coline sistema dvi lazdeles Uzd_nr_13\20180121 coline sistema dvi lazdeles Uzd_nr_13\obj\Debug\20180121 coline sistema dvi lazdeles Uzd_nr_13.csproj.CoreCompileInputs.cache
+E:\C#\Uzduotys lapas\20180121 coline sistema dvi lazdeles Uzd_nr_13\20180121 coline sistema dvi lazdeles Uzd_nr_13\obj\Debug\20180121 coline sistema dvi lazdeles Uzd_nr_13.exe
+E:\C#\Uzduotys lapas\20180121 coline sistema dvi lazdeles Uzd_nr_13\20180121 coline sistema dvi lazdeles Uzd_nr_13\obj\Debug\20180121 coline sistema dvi lazdeles Uzd_nr_13.pdb

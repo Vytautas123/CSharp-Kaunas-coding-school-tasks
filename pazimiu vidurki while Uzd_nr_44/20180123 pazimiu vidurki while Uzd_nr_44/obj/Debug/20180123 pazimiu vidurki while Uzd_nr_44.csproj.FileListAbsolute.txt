@@ -1,0 +1,7 @@
+E:\C#\Uzduotys lapas\20180123 pazimiu vidurki while Uzd_nr_44\20180123 pazimiu vidurki while Uzd_nr_44\bin\Debug\20180123 pazimiu vidurki while Uzd_nr_44.exe.config
+E:\C#\Uzduotys lapas\20180123 pazimiu vidurki while Uzd_nr_44\20180123 pazimiu vidurki while Uzd_nr_44\bin\Debug\20180123 pazimiu vidurki while Uzd_nr_44.exe
+E:\C#\Uzduotys lapas\20180123 pazimiu vidurki while Uzd_nr_44\20180123 pazimiu vidurki while Uzd_nr_44\bin\Debug\20180123 pazimiu vidurki while Uzd_nr_44.pdb
+E:\C#\Uzduotys lapas\20180123 pazimiu vidurki while Uzd_nr_44\20180123 pazimiu vidurki while Uzd_nr_44\obj\Debug\20180123 pazimiu vidurki while Uzd_nr_44.csprojResolveAssemblyReference.cache
+E:\C#\Uzduotys lapas\20180123 pazimiu vidurki while Uzd_nr_44\20180123 pazimiu vidurki while Uzd_nr_44\obj\Debug\20180123 pazimiu vidurki while Uzd_nr_44.csproj.CoreCompileInputs.cache
+E:\C#\Uzduotys lapas\20180123 pazimiu vidurki while Uzd_nr_44\20180123 pazimiu vidurki while Uzd_nr_44\obj\Debug\20180123 pazimiu vidurki while Uzd_nr_44.exe
+E:\C#\Uzduotys lapas\20180123 pazimiu vidurki while Uzd_nr_44\20180123 pazimiu vidurki while Uzd_nr_44\obj\Debug\20180123 pazimiu vidurki while Uzd_nr_44.pdb

@@ -1,0 +1,14 @@
+E:\C#\Uzduotys lapas\201801 litrai i galonus Uzd_nr_14\201801 litrai i galonus Uzd_nr_14\bin\Debug\201801 litrai i galonus Uzd_nr_14.exe.config
+E:\C#\Uzduotys lapas\201801 litrai i galonus Uzd_nr_14\201801 litrai i galonus Uzd_nr_14\bin\Debug\201801 litrai i galonus Uzd_nr_14.exe
+E:\C#\Uzduotys lapas\201801 litrai i galonus Uzd_nr_14\201801 litrai i galonus Uzd_nr_14\bin\Debug\201801 litrai i galonus Uzd_nr_14.pdb
+E:\C#\Uzduotys lapas\201801 litrai i galonus Uzd_nr_14\201801 litrai i galonus Uzd_nr_14\obj\Debug\201801 litrai i galonus Uzd_nr_14.csprojResolveAssemblyReference.cache
+E:\C#\Uzduotys lapas\201801 litrai i galonus Uzd_nr_14\201801 litrai i galonus Uzd_nr_14\obj\Debug\201801 litrai i galonus Uzd_nr_14.csproj.CoreCompileInputs.cache
+E:\C#\Uzduotys lapas\201801 litrai i galonus Uzd_nr_14\201801 litrai i galonus Uzd_nr_14\obj\Debug\201801 litrai i galonus Uzd_nr_14.exe
+E:\C#\Uzduotys lapas\201801 litrai i galonus Uzd_nr_14\201801 litrai i galonus Uzd_nr_14\obj\Debug\201801 litrai i galonus Uzd_nr_14.pdb
+E:\C#\Uzduotys lapas\20180121 litrai i galonus Uzd_nr_14\201801 litrai i galonus Uzd_nr_14\bin\Debug\201801 litrai i galonus Uzd_nr_14.exe.config
+E:\C#\Uzduotys lapas\20180121 litrai i galonus Uzd_nr_14\201801 litrai i galonus Uzd_nr_14\bin\Debug\201801 litrai i galonus Uzd_nr_14.exe
+E:\C#\Uzduotys lapas\20180121 litrai i galonus Uzd_nr_14\201801 litrai i galonus Uzd_nr_14\bin\Debug\201801 litrai i galonus Uzd_nr_14.pdb
+E:\C#\Uzduotys lapas\20180121 litrai i galonus Uzd_nr_14\201801 litrai i galonus Uzd_nr_14\obj\Debug\201801 litrai i galonus Uzd_nr_14.csprojResolveAssemblyReference.cache
+E:\C#\Uzduotys lapas\20180121 litrai i galonus Uzd_nr_14\201801 litrai i galonus Uzd_nr_14\obj\Debug\201801 litrai i galonus Uzd_nr_14.csproj.CoreCompileInputs.cache
+E:\C#\Uzduotys lapas\20180121 litrai i galonus Uzd_nr_14\201801 litrai i galonus Uzd_nr_14\obj\Debug\201801 litrai i galonus Uzd_nr_14.exe
+E:\C#\Uzduotys lapas\20180121 litrai i galonus Uzd_nr_14\201801 litrai i galonus Uzd_nr_14\obj\Debug\201801 litrai i galonus Uzd_nr_14.pdb

@@ -1,0 +1,6 @@
+E:\C#\Uzduotys lapas\20180129 saknis is skaiciu\20180129 saknis is skaiciu\bin\Debug\20180129 saknis is skaiciu.exe.config
+E:\C#\Uzduotys lapas\20180129 saknis is skaiciu\20180129 saknis is skaiciu\bin\Debug\20180129 saknis is skaiciu.exe
+E:\C#\Uzduotys lapas\20180129 saknis is skaiciu\20180129 saknis is skaiciu\bin\Debug\20180129 saknis is skaiciu.pdb
+E:\C#\Uzduotys lapas\20180129 saknis is skaiciu\20180129 saknis is skaiciu\obj\Debug\20180129 saknis is skaiciu.csproj.CoreCompileInputs.cache
+E:\C#\Uzduotys lapas\20180129 saknis is skaiciu\20180129 saknis is skaiciu\obj\Debug\20180129 saknis is skaiciu.exe
+E:\C#\Uzduotys lapas\20180129 saknis is skaiciu\20180129 saknis is skaiciu\obj\Debug\20180129 saknis is skaiciu.pdb

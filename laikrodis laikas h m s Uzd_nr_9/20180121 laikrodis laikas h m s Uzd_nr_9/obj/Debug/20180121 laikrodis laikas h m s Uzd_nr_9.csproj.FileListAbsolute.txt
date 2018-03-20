@@ -1,0 +1,7 @@
+E:\C#\Uzduotys lapas\20180121 laikrodis laikas h m s Uzd_nr_9\20180121 laikrodis laikas h m s Uzd_nr_9\bin\Debug\20180121 laikrodis laikas h m s Uzd_nr_9.exe.config
+E:\C#\Uzduotys lapas\20180121 laikrodis laikas h m s Uzd_nr_9\20180121 laikrodis laikas h m s Uzd_nr_9\bin\Debug\20180121 laikrodis laikas h m s Uzd_nr_9.exe
+E:\C#\Uzduotys lapas\20180121 laikrodis laikas h m s Uzd_nr_9\20180121 laikrodis laikas h m s Uzd_nr_9\bin\Debug\20180121 laikrodis laikas h m s Uzd_nr_9.pdb
+E:\C#\Uzduotys lapas\20180121 laikrodis laikas h m s Uzd_nr_9\20180121 laikrodis laikas h m s Uzd_nr_9\obj\Debug\20180121 laikrodis laikas h m s Uzd_nr_9.csprojResolveAssemblyReference.cache
+E:\C#\Uzduotys lapas\20180121 laikrodis laikas h m s Uzd_nr_9\20180121 laikrodis laikas h m s Uzd_nr_9\obj\Debug\20180121 laikrodis laikas h m s Uzd_nr_9.csproj.CoreCompileInputs.cache
+E:\C#\Uzduotys lapas\20180121 laikrodis laikas h m s Uzd_nr_9\20180121 laikrodis laikas h m s Uzd_nr_9\obj\Debug\20180121 laikrodis laikas h m s Uzd_nr_9.exe
+E:\C#\Uzduotys lapas\20180121 laikrodis laikas h m s Uzd_nr_9\20180121 laikrodis laikas h m s Uzd_nr_9\obj\Debug\20180121 laikrodis laikas h m s Uzd_nr_9.pdb

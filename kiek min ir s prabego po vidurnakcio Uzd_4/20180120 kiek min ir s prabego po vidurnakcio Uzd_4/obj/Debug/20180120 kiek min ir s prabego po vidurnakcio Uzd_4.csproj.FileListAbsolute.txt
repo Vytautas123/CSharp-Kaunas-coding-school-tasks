@@ -1,0 +1,7 @@
+E:\C#\Uzduotys lapas\20180120 kiek min ir s prabego po vidurnakcio Uzd_4\20180120 kiek min ir s prabego po vidurnakcio Uzd_4\bin\Debug\20180120 kiek min ir s prabego po vidurnakcio Uzd_4.exe.config
+E:\C#\Uzduotys lapas\20180120 kiek min ir s prabego po vidurnakcio Uzd_4\20180120 kiek min ir s prabego po vidurnakcio Uzd_4\bin\Debug\20180120 kiek min ir s prabego po vidurnakcio Uzd_4.exe
+E:\C#\Uzduotys lapas\20180120 kiek min ir s prabego po vidurnakcio Uzd_4\20180120 kiek min ir s prabego po vidurnakcio Uzd_4\bin\Debug\20180120 kiek min ir s prabego po vidurnakcio Uzd_4.pdb
+E:\C#\Uzduotys lapas\20180120 kiek min ir s prabego po vidurnakcio Uzd_4\20180120 kiek min ir s prabego po vidurnakcio Uzd_4\obj\Debug\20180120 kiek min ir s prabego po vidurnakcio Uzd_4.csprojResolveAssemblyReference.cache
+E:\C#\Uzduotys lapas\20180120 kiek min ir s prabego po vidurnakcio Uzd_4\20180120 kiek min ir s prabego po vidurnakcio Uzd_4\obj\Debug\20180120 kiek min ir s prabego po vidurnakcio Uzd_4.csproj.CoreCompileInputs.cache
+E:\C#\Uzduotys lapas\20180120 kiek min ir s prabego po vidurnakcio Uzd_4\20180120 kiek min ir s prabego po vidurnakcio Uzd_4\obj\Debug\20180120 kiek min ir s prabego po vidurnakcio Uzd_4.exe
+E:\C#\Uzduotys lapas\20180120 kiek min ir s prabego po vidurnakcio Uzd_4\20180120 kiek min ir s prabego po vidurnakcio Uzd_4\obj\Debug\20180120 kiek min ir s prabego po vidurnakcio Uzd_4.pdb

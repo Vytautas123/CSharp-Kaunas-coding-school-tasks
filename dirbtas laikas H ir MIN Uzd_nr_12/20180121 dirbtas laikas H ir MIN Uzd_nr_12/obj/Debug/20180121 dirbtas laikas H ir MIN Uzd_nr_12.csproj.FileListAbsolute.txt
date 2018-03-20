@@ -1,0 +1,7 @@
+E:\C#\Uzduotys lapas\20180121 dirbtas laikas H ir MIN Uzd_nr_12\20180121 dirbtas laikas H ir MIN Uzd_nr_12\bin\Debug\20180121 dirbtas laikas H ir MIN Uzd_nr_12.exe.config
+E:\C#\Uzduotys lapas\20180121 dirbtas laikas H ir MIN Uzd_nr_12\20180121 dirbtas laikas H ir MIN Uzd_nr_12\bin\Debug\20180121 dirbtas laikas H ir MIN Uzd_nr_12.exe
+E:\C#\Uzduotys lapas\20180121 dirbtas laikas H ir MIN Uzd_nr_12\20180121 dirbtas laikas H ir MIN Uzd_nr_12\bin\Debug\20180121 dirbtas laikas H ir MIN Uzd_nr_12.pdb
+E:\C#\Uzduotys lapas\20180121 dirbtas laikas H ir MIN Uzd_nr_12\20180121 dirbtas laikas H ir MIN Uzd_nr_12\obj\Debug\20180121 dirbtas laikas H ir MIN Uzd_nr_12.csprojResolveAssemblyReference.cache
+E:\C#\Uzduotys lapas\20180121 dirbtas laikas H ir MIN Uzd_nr_12\20180121 dirbtas laikas H ir MIN Uzd_nr_12\obj\Debug\20180121 dirbtas laikas H ir MIN Uzd_nr_12.csproj.CoreCompileInputs.cache
+E:\C#\Uzduotys lapas\20180121 dirbtas laikas H ir MIN Uzd_nr_12\20180121 dirbtas laikas H ir MIN Uzd_nr_12\obj\Debug\20180121 dirbtas laikas H ir MIN Uzd_nr_12.exe
+E:\C#\Uzduotys lapas\20180121 dirbtas laikas H ir MIN Uzd_nr_12\20180121 dirbtas laikas H ir MIN Uzd_nr_12\obj\Debug\20180121 dirbtas laikas H ir MIN Uzd_nr_12.pdb

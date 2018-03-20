@@ -1,0 +1,7 @@
+E:\C#\Uzduotys lapas\keturzenlis skaicius 1234 i 4321\keturzenlis skaicius 1234 i 4321\bin\Debug\keturzenlis skaicius 1234 i 4321.exe.config
+E:\C#\Uzduotys lapas\keturzenlis skaicius 1234 i 4321\keturzenlis skaicius 1234 i 4321\bin\Debug\keturzenlis skaicius 1234 i 4321.exe
+E:\C#\Uzduotys lapas\keturzenlis skaicius 1234 i 4321\keturzenlis skaicius 1234 i 4321\bin\Debug\keturzenlis skaicius 1234 i 4321.pdb
+E:\C#\Uzduotys lapas\keturzenlis skaicius 1234 i 4321\keturzenlis skaicius 1234 i 4321\obj\Debug\keturzenlis skaicius 1234 i 4321.csprojResolveAssemblyReference.cache
+E:\C#\Uzduotys lapas\keturzenlis skaicius 1234 i 4321\keturzenlis skaicius 1234 i 4321\obj\Debug\keturzenlis skaicius 1234 i 4321.csproj.CoreCompileInputs.cache
+E:\C#\Uzduotys lapas\keturzenlis skaicius 1234 i 4321\keturzenlis skaicius 1234 i 4321\obj\Debug\keturzenlis skaicius 1234 i 4321.exe
+E:\C#\Uzduotys lapas\keturzenlis skaicius 1234 i 4321\keturzenlis skaicius 1234 i 4321\obj\Debug\keturzenlis skaicius 1234 i 4321.pdb

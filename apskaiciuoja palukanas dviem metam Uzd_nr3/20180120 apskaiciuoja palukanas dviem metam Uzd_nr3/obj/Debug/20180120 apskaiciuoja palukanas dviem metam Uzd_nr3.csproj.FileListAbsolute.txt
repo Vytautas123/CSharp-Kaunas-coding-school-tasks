@@ -1,0 +1,7 @@
+E:\C#\Uzduotys lapas\20180120 apskaiciuoja palukanas dviem metam Uzd_nr3\20180120 apskaiciuoja palukanas dviem metam Uzd_nr3\bin\Debug\20180120 apskaiciuoja palukanas dviem metam Uzd_nr3.exe.config
+E:\C#\Uzduotys lapas\20180120 apskaiciuoja palukanas dviem metam Uzd_nr3\20180120 apskaiciuoja palukanas dviem metam Uzd_nr3\bin\Debug\20180120 apskaiciuoja palukanas dviem metam Uzd_nr3.exe
+E:\C#\Uzduotys lapas\20180120 apskaiciuoja palukanas dviem metam Uzd_nr3\20180120 apskaiciuoja palukanas dviem metam Uzd_nr3\bin\Debug\20180120 apskaiciuoja palukanas dviem metam Uzd_nr3.pdb
+E:\C#\Uzduotys lapas\20180120 apskaiciuoja palukanas dviem metam Uzd_nr3\20180120 apskaiciuoja palukanas dviem metam Uzd_nr3\obj\Debug\20180120 apskaiciuoja palukanas dviem metam Uzd_nr3.csprojResolveAssemblyReference.cache
+E:\C#\Uzduotys lapas\20180120 apskaiciuoja palukanas dviem metam Uzd_nr3\20180120 apskaiciuoja palukanas dviem metam Uzd_nr3\obj\Debug\20180120 apskaiciuoja palukanas dviem metam Uzd_nr3.csproj.CoreCompileInputs.cache
+E:\C#\Uzduotys lapas\20180120 apskaiciuoja palukanas dviem metam Uzd_nr3\20180120 apskaiciuoja palukanas dviem metam Uzd_nr3\obj\Debug\20180120 apskaiciuoja palukanas dviem metam Uzd_nr3.exe
+E:\C#\Uzduotys lapas\20180120 apskaiciuoja palukanas dviem metam Uzd_nr3\20180120 apskaiciuoja palukanas dviem metam Uzd_nr3\obj\Debug\20180120 apskaiciuoja palukanas dviem metam Uzd_nr3.pdb

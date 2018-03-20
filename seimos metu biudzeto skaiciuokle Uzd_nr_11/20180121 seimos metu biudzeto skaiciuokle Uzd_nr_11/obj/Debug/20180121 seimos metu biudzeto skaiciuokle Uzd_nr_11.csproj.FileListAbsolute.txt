@@ -1,0 +1,7 @@
+E:\C#\Uzduotys lapas\20180121 seimos metu biudzeto skaiciuokle Uzd_nr_11\20180121 seimos metu biudzeto skaiciuokle Uzd_nr_11\bin\Debug\20180121 seimos metu biudzeto skaiciuokle Uzd_nr_11.exe.config
+E:\C#\Uzduotys lapas\20180121 seimos metu biudzeto skaiciuokle Uzd_nr_11\20180121 seimos metu biudzeto skaiciuokle Uzd_nr_11\bin\Debug\20180121 seimos metu biudzeto skaiciuokle Uzd_nr_11.exe
+E:\C#\Uzduotys lapas\20180121 seimos metu biudzeto skaiciuokle Uzd_nr_11\20180121 seimos metu biudzeto skaiciuokle Uzd_nr_11\bin\Debug\20180121 seimos metu biudzeto skaiciuokle Uzd_nr_11.pdb
+E:\C#\Uzduotys lapas\20180121 seimos metu biudzeto skaiciuokle Uzd_nr_11\20180121 seimos metu biudzeto skaiciuokle Uzd_nr_11\obj\Debug\20180121 seimos metu biudzeto skaiciuokle Uzd_nr_11.csprojResolveAssemblyReference.cache
+E:\C#\Uzduotys lapas\20180121 seimos metu biudzeto skaiciuokle Uzd_nr_11\20180121 seimos metu biudzeto skaiciuokle Uzd_nr_11\obj\Debug\20180121 seimos metu biudzeto skaiciuokle Uzd_nr_11.csproj.CoreCompileInputs.cache
+E:\C#\Uzduotys lapas\20180121 seimos metu biudzeto skaiciuokle Uzd_nr_11\20180121 seimos metu biudzeto skaiciuokle Uzd_nr_11\obj\Debug\20180121 seimos metu biudzeto skaiciuokle Uzd_nr_11.exe
+E:\C#\Uzduotys lapas\20180121 seimos metu biudzeto skaiciuokle Uzd_nr_11\20180121 seimos metu biudzeto skaiciuokle Uzd_nr_11\obj\Debug\20180121 seimos metu biudzeto skaiciuokle Uzd_nr_11.pdb

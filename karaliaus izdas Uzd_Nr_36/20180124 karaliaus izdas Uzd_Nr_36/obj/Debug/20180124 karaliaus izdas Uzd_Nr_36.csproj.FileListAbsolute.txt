@@ -1,0 +1,7 @@
+E:\C#\Uzduotys lapas\20180124 karaliaus izdas Uzd_Nr_36\20180124 karaliaus izdas Uzd_Nr_36\bin\Debug\20180124 karaliaus izdas Uzd_Nr_36.exe.config
+E:\C#\Uzduotys lapas\20180124 karaliaus izdas Uzd_Nr_36\20180124 karaliaus izdas Uzd_Nr_36\bin\Debug\20180124 karaliaus izdas Uzd_Nr_36.exe
+E:\C#\Uzduotys lapas\20180124 karaliaus izdas Uzd_Nr_36\20180124 karaliaus izdas Uzd_Nr_36\bin\Debug\20180124 karaliaus izdas Uzd_Nr_36.pdb
+E:\C#\Uzduotys lapas\20180124 karaliaus izdas Uzd_Nr_36\20180124 karaliaus izdas Uzd_Nr_36\obj\Debug\20180124 karaliaus izdas Uzd_Nr_36.csprojResolveAssemblyReference.cache
+E:\C#\Uzduotys lapas\20180124 karaliaus izdas Uzd_Nr_36\20180124 karaliaus izdas Uzd_Nr_36\obj\Debug\20180124 karaliaus izdas Uzd_Nr_36.csproj.CoreCompileInputs.cache
+E:\C#\Uzduotys lapas\20180124 karaliaus izdas Uzd_Nr_36\20180124 karaliaus izdas Uzd_Nr_36\obj\Debug\20180124 karaliaus izdas Uzd_Nr_36.exe
+E:\C#\Uzduotys lapas\20180124 karaliaus izdas Uzd_Nr_36\20180124 karaliaus izdas Uzd_Nr_36\obj\Debug\20180124 karaliaus izdas Uzd_Nr_36.pdb

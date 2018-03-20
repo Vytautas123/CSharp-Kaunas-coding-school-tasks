@@ -1,0 +1,7 @@
+E:\C#\Uzduotys lapas\20180130 staciakampis ar kvadratas Uzd_nr_22\20180130 staciakampis ar kvadratas Uzd_nr_22\bin\Debug\20180130 staciakampis ar kvadratas Uzd_nr_22.exe.config
+E:\C#\Uzduotys lapas\20180130 staciakampis ar kvadratas Uzd_nr_22\20180130 staciakampis ar kvadratas Uzd_nr_22\bin\Debug\20180130 staciakampis ar kvadratas Uzd_nr_22.exe
+E:\C#\Uzduotys lapas\20180130 staciakampis ar kvadratas Uzd_nr_22\20180130 staciakampis ar kvadratas Uzd_nr_22\bin\Debug\20180130 staciakampis ar kvadratas Uzd_nr_22.pdb
+E:\C#\Uzduotys lapas\20180130 staciakampis ar kvadratas Uzd_nr_22\20180130 staciakampis ar kvadratas Uzd_nr_22\obj\Debug\20180130 staciakampis ar kvadratas Uzd_nr_22.csprojResolveAssemblyReference.cache
+E:\C#\Uzduotys lapas\20180130 staciakampis ar kvadratas Uzd_nr_22\20180130 staciakampis ar kvadratas Uzd_nr_22\obj\Debug\20180130 staciakampis ar kvadratas Uzd_nr_22.csproj.CoreCompileInputs.cache
+E:\C#\Uzduotys lapas\20180130 staciakampis ar kvadratas Uzd_nr_22\20180130 staciakampis ar kvadratas Uzd_nr_22\obj\Debug\20180130 staciakampis ar kvadratas Uzd_nr_22.exe
+E:\C#\Uzduotys lapas\20180130 staciakampis ar kvadratas Uzd_nr_22\20180130 staciakampis ar kvadratas Uzd_nr_22\obj\Debug\20180130 staciakampis ar kvadratas Uzd_nr_22.pdb

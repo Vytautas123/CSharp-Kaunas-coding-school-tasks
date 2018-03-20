@@ -1,0 +1,7 @@
+E:\C#\Uzduotys lapas\20180130 paslepti skaiciai 1234 i 4123 Uzd_nr_20\20180130 paslepti skaiciai 1234 i 4123 Uzd_nr_20\bin\Debug\20180130 paslepti skaiciai 1234 i 4123 Uzd_nr_20.exe.config
+E:\C#\Uzduotys lapas\20180130 paslepti skaiciai 1234 i 4123 Uzd_nr_20\20180130 paslepti skaiciai 1234 i 4123 Uzd_nr_20\bin\Debug\20180130 paslepti skaiciai 1234 i 4123 Uzd_nr_20.exe
+E:\C#\Uzduotys lapas\20180130 paslepti skaiciai 1234 i 4123 Uzd_nr_20\20180130 paslepti skaiciai 1234 i 4123 Uzd_nr_20\bin\Debug\20180130 paslepti skaiciai 1234 i 4123 Uzd_nr_20.pdb
+E:\C#\Uzduotys lapas\20180130 paslepti skaiciai 1234 i 4123 Uzd_nr_20\20180130 paslepti skaiciai 1234 i 4123 Uzd_nr_20\obj\Debug\20180130 paslepti skaiciai 1234 i 4123 Uzd_nr_20.csprojResolveAssemblyReference.cache
+E:\C#\Uzduotys lapas\20180130 paslepti skaiciai 1234 i 4123 Uzd_nr_20\20180130 paslepti skaiciai 1234 i 4123 Uzd_nr_20\obj\Debug\20180130 paslepti skaiciai 1234 i 4123 Uzd_nr_20.csproj.CoreCompileInputs.cache
+E:\C#\Uzduotys lapas\20180130 paslepti skaiciai 1234 i 4123 Uzd_nr_20\20180130 paslepti skaiciai 1234 i 4123 Uzd_nr_20\obj\Debug\20180130 paslepti skaiciai 1234 i 4123 Uzd_nr_20.exe
+E:\C#\Uzduotys lapas\20180130 paslepti skaiciai 1234 i 4123 Uzd_nr_20\20180130 paslepti skaiciai 1234 i 4123 Uzd_nr_20\obj\Debug\20180130 paslepti skaiciai 1234 i 4123 Uzd_nr_20.pdb
